@@ -1,0 +1,2 @@
+class Tar::File
+end
